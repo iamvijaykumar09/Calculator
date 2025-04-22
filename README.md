@@ -44,4 +44,3 @@ A full-stack web application that provides:
 | Authentication  | JSON Web Tokens (JWT)       |
 | Security        | bcrypt, CORS middleware     |
 | Development     | NPM, Git                    |
-|-----------------|-----------------------------|
